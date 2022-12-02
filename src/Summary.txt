@@ -1,0 +1,8 @@
+Subirachs' square located on the Passion façade of La Sagrada Família in Barcelona, Spain. Construction of the
+cathedral started in 1882 with the original architect, Antoni Gaudí, finishing the designs; construction is ongoing.
+Josep Maria Subirachs is the sculptor, and he created the square such that the magic sum was 33, or the year that many
+believe was the age of Jesus Christ when he was executed. Digging deeper than just the sum, the repeated numbers (14,10)
+sum to 48. INIR on the Roman alphabet also sum to 48 when their place on the alphabet is used. (I -> 9 N ->13 R -> 17 I ->9)
+This was the inscription on Jesus' cross when he was executed, and is an initialism of Jesus of Nazareth, king of the Jews.
+It's naming as a magic square is only half true, as in order to be a magic square you must use all numbers of n^2. This
+implies no repeats and that all numbers must be there, from 1 to n^2. (This case would need 1-16.)
